@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb93eaa88ab7fc54c9735ba6b086190f, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  obsCutout: {fileID: 2100000, guid: 5d0cd3f6670d2a24d8dcd8d2aee9f5ef, type: 2}
+  objCutout: {fileID: 2100000, guid: 5dbabb1690c283b4599adb694951c9d3, type: 2}
+  obsDefault: {fileID: 2100000, guid: 5c5429ac1b3cbfd4185abfd06ee77ab3, type: 2}
+  objDefault: {fileID: 2100000, guid: d276578a00d016b469c2452c1b238ac4, type: 2}
+  map: {fileID: 2100000, guid: 8f1dec45f8923324dba478d20f6d2af7, type: 2}
+  reward: {fileID: 11400000, guid: e3f00e29f38d64d4aa24ce662545d7d4, type: 2}
+  number: 1
+  descriptionText: A Level
+  difficulty: 0
+  completed: 0
+  played: 0
